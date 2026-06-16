@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/magdalena-m-990496193/">
+  <a href="https://www.linkedin.com/in/magdalena-m-990496163/">
     <img src="https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>

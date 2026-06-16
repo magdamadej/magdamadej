@@ -8,12 +8,6 @@
   Working with Python, SQL and Power BI to explore, analyze and visualize data.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/magdalena-m-990496163/">
-    <img src="https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-
 ---
 
 <h3 align="center">📊 Data Analytics Stack</h3>

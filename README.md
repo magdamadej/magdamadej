@@ -8,6 +8,8 @@
   Working with Python, SQL and Power BI to explore, analyze and visualize data.
 </p>
 
+---
+
 <h3 align="center">📊 Data Analytics Stack</h3>
 
 <h4 align="center">Data Analysis</h4>

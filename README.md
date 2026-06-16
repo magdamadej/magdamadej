@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Magda 👋</h1>
 
-<!--
-**magdamadej/magdamadej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Data Analyst • Python • SQL • Power BI
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Working with Python, SQL and Power BI to explore, analyze and visualize data.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/magdalena-m-990496193/">
+    <img src="https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">📊 Data Analytics Stack</h3>
+
+<h4 align="center">Data Analysis</h4>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55"/>
+</p>
+
+<p align="center">
+  Python • Pandas • NumPy • Matplotlib • Jupyter
+</p>
+
+<h4 align="center">Business Intelligence</h4>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="55"/>
+  <img src="https://img.icons8.com/color/96/power-bi.png" width="55"/>
+</p>
+
+<p align="center">
+  SQL • MS SQL Server • Power BI • DAX • Power Query
+</p>
+
+<h4 align="center">Tools</h4>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
+</p>
+
+<p align="center">
+  Git • GitHub
+</p>

@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Magda 👋</h1>
 
 <p align="center">
-  Data Analyst • Python • SQL • Power BI
-</p>
-
-<p align="center">
   Working with Python, SQL and Power BI to explore, analyze and visualize data.
 </p>
 
